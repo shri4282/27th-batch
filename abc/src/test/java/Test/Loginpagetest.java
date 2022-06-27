@@ -32,6 +32,10 @@ public class Loginpagetest extends Basetest {
 		Zerodhalogin.enterpassword(Password);
 		Zerodhalogin.clickonlogin();
 	}
+}
+		
+		
+	
 	
 	
 	
@@ -40,7 +44,7 @@ public class Loginpagetest extends Basetest {
 	
 	
 
-}
+
 
 
 	
